@@ -1,0 +1,55 @@
+Print or draw the Fruit of Life map  
+```
+You can find the map at the bottom of this documentation.
+```
+You are the focus here, so in the purpose sphere, enter your name.
+```
+This doesn't need to be your legal name.
+Feel free to come up with a persona or avatar name that fits what you want to create for yourself. 
+Also, your legal name is awesome, so that's perfect, too.
+```
+In the ground sphere, the prompt is for you to "reseed your fresh start". What is a word or statement that describes the role you want to carry in your life?
+```
+Some example responses others have put in this sphere:
+- "a" conduit/channel
+- Steward of the sacred woods
+- I am a translator
+- etc.
+```
+In the Intend sphere, the promt is "clarify your desire". Consider creating an "I Am" affirmation about what you will do or create from now on.
+```
+Example responses for reference:
+- "a" guide
+- I am the navigator of my livlihood
+- I illustrate my perspective
+```
+In the Observe sphere, the prompt is "gather information". Consider entering a question here that will help you observe how you want to flip the script in your life.
+```
+Example responses for reference:
+- Weird / WYRD
+- What are the blocks & obstacles on my path?
+- What is "real world" success?
+```
+In the Connect sphere, the prompt is "appreciate other". Consider writing in a person or system in nature that you'll use an example for yourself.
+```
+Example responses for reference:
+- Maya Angelou
+- Ram Das
+- Alan Watts
+```
+In the Express sphere, the prompt is "convey awareness". Consider writing something about what you will do to accomplish being the most you can be.
+```
+Example responses for reference:
+- I draw in nature
+- My Life is My Art
+- Speak with trust
+```
+In the Refine sphere, the prompt is "enhance lesson". Consider writing something about what you think you can do better at right now.
+```
+Example responses for reference:
+- "That's not for me to say"
+- Integrate or let go of critique
+- I focus on translating my experience for myself
+```
+This completes the 7 inner seed words to help you define your inner purpose. Now that you've finished, please take a photo, join our [Discord](https://discord.gg/NTt89gVt), and share your response in the `#purpose-definition` channel.
+![IMG_7520](https://user-images.githubusercontent.com/8133349/174492599-a5939c5d-3dbb-4e54-80d8-118f3d70a309.jpeg)
