@@ -1,3 +1,5 @@
+# Documentation
+### 0 Initiation Purpose: [k]now Thyself
 Print or draw the Fruit of Life map  
 ```
 You can find the map at the bottom of this documentation.
