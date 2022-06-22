@@ -1,5 +1,10 @@
 # Documentation
-### 0 Initiation Purpose: [k]now Thyself
+### 0 Player Purpose: Creation Cycle
+```
+This documentation is based on the Creation Cycle template by Quantum MeMoir. 
+Use this to define your avatar/community within the ourStory network. 
+```
+
 Print or draw the Fruit of Life map  
 ```
 You can find the map at the bottom of this documentation.
